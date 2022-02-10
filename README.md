@@ -3,6 +3,8 @@ This is a program to automate the process of solving sequent calculus problems.
 
 *Instructions*
 
+	(terminal)$ git clone git@github.com:ajrisylhasi/SequentCalculus.git
+
 	cd SequentCalculus
 	ruby main.rb
 	
